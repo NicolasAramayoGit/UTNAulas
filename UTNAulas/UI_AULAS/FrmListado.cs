@@ -12,24 +12,24 @@ namespace UI_AULAS
 {
     public partial class FrmListado : Form
     {
-        //EntidadAula.Aula miAula;
-
         public FrmListado()
         {
             InitializeComponent();
         }
 
-        private void FrmListado_Load(object sender, EventArgs e)
+
+        public FrmListado(EntidadAula.Aula aula):this()
         {
-            //miAula = new EntidadAula.Aula(
+
+            foreach (EntidadAula.Alumno item in aula.ListaAlumnos)
+            {
+                this.lstListado.Items.Add(item.Nombre);
+            }
         }
 
-        public FrmListado(EntidadAula.Aula miAula)
+        private void FrmListado_Load(object sender, EventArgs e)
         {
-            foreach(var item in miAula)
-	        {
-                this.lstListado.Show(item);
-	        }
+
         }
     }
 }

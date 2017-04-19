@@ -39,5 +39,15 @@ namespace UI_AULAS
                 //miAula.AgregarAlumno(frm.miAlumno);
             }
         }
+
+        private void listarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmListado frm = new FrmListado(miAula);
+
+            if (frm.ShowDialog() ==  System.Windows.Forms.DialogResult.OK)
+            {
+                
+            }
+        }
     }
 }

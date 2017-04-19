@@ -3,3 +3,8 @@ D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\EntidadAula\bin\Debug\Ent
 D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\EntidadAula\obj\Debug\EntidadAula.csprojResolveAssemblyReference.cache
 D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\EntidadAula\obj\Debug\EntidadAula.dll
 D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\EntidadAula\obj\Debug\EntidadAula.pdb
+H:\UTNAulas\EntidadAula\bin\Debug\EntidadAula.dll
+H:\UTNAulas\EntidadAula\bin\Debug\EntidadAula.pdb
+H:\UTNAulas\EntidadAula\obj\Debug\EntidadAula.csprojResolveAssemblyReference.cache
+H:\UTNAulas\EntidadAula\obj\Debug\EntidadAula.dll
+H:\UTNAulas\EntidadAula\obj\Debug\EntidadAula.pdb

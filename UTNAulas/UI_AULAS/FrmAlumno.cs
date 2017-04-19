@@ -34,11 +34,6 @@ namespace UI_AULAS
 
         }
 
-        private void txtNombre_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void FrmAlumno_Load(object sender, EventArgs e)
         {
             this.cmbSexo.Items.Add(ESexo.Femenino);

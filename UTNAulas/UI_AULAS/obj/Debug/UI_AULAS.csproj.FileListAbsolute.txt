@@ -10,3 +10,16 @@ D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\UI_AULAS\obj\Debug\UI_AUL
 D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\UI_AULAS\obj\Debug\UI_AULAS.csproj.GenerateResource.Cache
 D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\UI_AULAS\obj\Debug\UI_AULAS.exe
 D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\UI_AULAS\obj\Debug\UI_AULAS.pdb
+H:\UTNAulas\UI_AULAS\obj\Debug\UI_AULAS.csprojResolveAssemblyReference.cache
+H:\UTNAulas\UI_AULAS\obj\Debug\UI_AULAS.FrmAlumno.resources
+H:\UTNAulas\UI_AULAS\obj\Debug\UI_AULAS.FrmListado.resources
+H:\UTNAulas\UI_AULAS\obj\Debug\UI_AULAS.FrmPrincipal.resources
+H:\UTNAulas\UI_AULAS\obj\Debug\UI_AULAS.Properties.Resources.resources
+H:\UTNAulas\UI_AULAS\obj\Debug\UI_AULAS.csproj.GenerateResource.Cache
+H:\UTNAulas\UI_AULAS\obj\Debug\UI_AULAS.exe
+H:\UTNAulas\UI_AULAS\obj\Debug\UI_AULAS.pdb
+H:\UTNAulas\UI_AULAS\bin\Debug\UI_AULAS.exe.config
+H:\UTNAulas\UI_AULAS\bin\Debug\UI_AULAS.exe
+H:\UTNAulas\UI_AULAS\bin\Debug\UI_AULAS.pdb
+H:\UTNAulas\UI_AULAS\bin\Debug\EntidadAula.dll
+H:\UTNAulas\UI_AULAS\bin\Debug\EntidadAula.pdb
