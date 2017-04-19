@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\EntidadAula\bin\Debug\EntidadAula.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\EntidadAula\bin\Debug\EntidadAula.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\EntidadAula\obj\Debug\EntidadAula.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\EntidadAula\obj\Debug\EntidadAula.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\UTNAulas\EntidadAula\obj\Debug\EntidadAula.pdb
